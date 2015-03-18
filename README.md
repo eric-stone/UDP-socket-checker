@@ -1,0 +1,1 @@
+a throwaway program to measure the number errors across a series of UDP collections, this client/server program sends UDP messages of varying lengths across an open socket and checks that the message arrived correctly using a crc32 checksum
